@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1556595266 source:d:\algorithms\projects\project 3\main.cpp
+	"SCImage.h"
+
+1556594233 d:\algorithms\projects\project 3\scimage.h
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<string>
+	<vector>
+
+1556595715 source:d:\algorithms\projects\project 3\scimage.cpp
+	"SCImage.h"
+

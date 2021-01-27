@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1554083128 source:d:\algorithms\projects\project 2\project 2\main.cpp
+	<string>
+	<iostream>
+	<stdlib.h>
+	<stack>
+	<fstream>
+	<vector>
+	<set>
+
