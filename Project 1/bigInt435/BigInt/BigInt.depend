@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1548720433 source:d:\algorithms\projects\project 1\bigint435\bigint\biginteger.cc
+	"BigInteger.hh"
+
+1548720433 d:\algorithms\projects\project 1\bigint435\bigint\biginteger.hh
+	"BigUnsigned.hh"
+
+1548720433 d:\algorithms\projects\project 1\bigint435\bigint\bigunsigned.hh
+	"NumberlikeArray.hh"
+
+1548720433 d:\algorithms\projects\project 1\bigint435\bigint\numberlikearray.hh
+
+1548720433 source:d:\algorithms\projects\project 1\bigint435\bigint\bigintegeralgorithms.cc
+	"BigIntegerAlgorithms.hh"
+
+1548720433 d:\algorithms\projects\project 1\bigint435\bigint\bigintegeralgorithms.hh
+	"BigInteger.hh"
+
+1548720433 source:d:\algorithms\projects\project 1\bigint435\bigint\bigintegerutils.cc
+	"BigIntegerUtils.hh"
+	"BigUnsignedInABase.hh"
+
+1548720433 d:\algorithms\projects\project 1\bigint435\bigint\bigintegerutils.hh
+	"BigInteger.hh"
+	<string>
+	<iostream>
+
+1548720433 d:\algorithms\projects\project 1\bigint435\bigint\bigunsignedinabase.hh
+	"NumberlikeArray.hh"
+	"BigUnsigned.hh"
+	<string>
+
+1548720433 source:d:\algorithms\projects\project 1\bigint435\bigint\bigunsigned.cc
+	"BigUnsigned.hh"
+
+1548720433 source:d:\algorithms\projects\project 1\bigint435\bigint\bigunsignedinabase.cc
+	"BigUnsignedInABase.hh"
+
+1549452818 source:d:\algorithms\projects\project 1\bigint435\bigint\rsa435.cc
+	<string>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	"BigIntegerLibrary.hh"
+
+1548720433 d:\algorithms\projects\project 1\bigint435\bigint\bigintegerlibrary.hh
+	"NumberlikeArray.hh"
+	"BigUnsigned.hh"
+	"BigInteger.hh"
+	"BigIntegerAlgorithms.hh"
+	"BigUnsignedInABase.hh"
+	"BigIntegerUtils.hh"
+
+1548720433 source:d:\algorithms\projects\project 1\bigint435\bigint\sample.cc
+	<string>
+	<iostream>
+	<stdlib.h>
+	"BigIntegerLibrary.hh"
+
+1548720433 source:d:\algorithms\projects\project 1\bigint435\bigint\testsuite.cc
+	"BigIntegerLibrary.hh"
+	<string>
+	<iostream>
+
